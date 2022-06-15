@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Name": "Birla House",
+    "Type": "House",
+    "Price": 12000
+  },
+  {
+    "Id": 2,
+    "Name": "Kippa Villa",
+    "Type": "Villa",
+    "Price": 122200
+  },
+  {
+    "Id": 3,
+    "Name": "Yupa Flat",
+    "Type": "Flat",
+    "Price": 1200
+  },
+  {
+    "Id": 4,
+    "Name": "Cepa House",
+    "Type": "House",
+    "Price": 12000
+  },
+  {
+    "Id": 5,
+    "Name": "Tena House",
+    "Type": "House",
+    "Price": 12000
+  },
+  {
+    "Id": 6,
+    "Name": "Lepa House",
+    "Type": "House",
+    "Price": 12000
+  },
+  {
+    "Id": 7,
+    "Name": "Muta House",
+    "Type": "House",
+    "Price": 12000
+  }
+]
