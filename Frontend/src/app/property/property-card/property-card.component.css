@@ -1,34 +1,45 @@
+.card {
+  min-height: 400px;
+}
+.card-body h1 {
+  font-family: fantasy;
+  color: #0069d9;
+}
 
-.card-img-wrapper{
+.card-img-wrapper {
   overflow: hidden;
   position: relative;
 }
-.card:hover img{
-  transform:scale(1.2,1.2);
+.font-highlight{
+  font-style: italic;
+  color:red;
+}
+.card:hover img {
+  transform: scale(1.2, 1.2);
   transition-duration: 250ms;
   transition-timing-function: ease-out;
-  height: 200px;
+  height: 300px;
   opacity: 0.5;
 }
-.card img{
-  transform:scale(1,1);
+.card img {
+  transform: scale(1, 1);
   transition-duration: 250ms;
   transition-timing-function: ease-out;
-  height: 200px;
+  height: 300px;
 }
-.member-icons{
+.member-icons {
   position: absolute;
   bottom: -10%;
-  left:0;
+  left: 0;
   right: 0;
   margin-right: auto;
   margin-left: auto;
   opacity: 0;
 }
-.card-img-wrapper:hover .member-icons{
-  bottom:0;
+.card-img-wrapper:hover .member-icons {
+  bottom: 0;
   opacity: 1;
 }
-.animate{
+.animate {
   transition: all 0.3s ease-in-out;
 }

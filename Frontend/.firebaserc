@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tutte-hspa"
+  },
+  "targets": {
+    "tutte-hspa": {
+      "hosting": {
+        "real-estate": [
+          "tutte-hspa"
+        ]
+      }
+    }
+  }
+}
