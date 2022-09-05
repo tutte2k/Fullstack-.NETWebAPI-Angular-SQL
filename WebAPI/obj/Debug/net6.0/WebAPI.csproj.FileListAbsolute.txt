@@ -59,3 +59,10 @@ C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\WebAPI\bi
 C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\webapi\bin\Debug\net6.0\Humanizer.dll
 C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\webapi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\webapi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\webapi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\webapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\webapi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\tomjo\OneDrive\Skrivbord\Projects\net-angular-real-estate-spa\webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
